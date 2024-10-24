@@ -33,15 +33,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/redmine-B32024?style=flat-square&logo=redmine&logoColor=white"/>
 
-<br>
-👋my stats
-<br>  
-![Soyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoungshin1&show_icons=true&theme=vision-friendly-dark)
 
 
 <br>  
 👍top languages
 <br>  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoungshin1&layout=compact)
 
 
